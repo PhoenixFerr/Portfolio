@@ -1,0 +1,24 @@
+
+body{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0;
+}
+
+.top-container{
+    color: #FF4B5C;
+}
+
+.middle-container{
+    color: teal;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom.container {
+    color: turquoise;
+    width: 200px;
+    height: 200px;
+}
